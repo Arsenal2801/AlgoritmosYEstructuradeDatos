@@ -31,7 +31,7 @@ El análisis de algoritmos es una técnica utilizada para determinar la compleji
 
 3. ***Análisis de caso promedio:*** Esta técnica consiste en analizar el tiempo de ejecución del algoritmo para un conjunto de datos aleatorios.
 
-### Órdenes de crecimiento:
+## Órdenes de crecimiento:
 
 El orden de crecimiento de un algoritmo indica cómo aumenta el tiempo de ejecución del algoritmo a medida que el tamaño del problema se incrementa. A continuación, se describen las órdenes de crecimiento más comunes:
 1. O(1): El tiempo de ejecución del algoritmo no varía con el tamaño del problema, es decir, es constante.
