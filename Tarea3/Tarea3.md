@@ -64,3 +64,7 @@ Por ende la salida generada por dicho algoritmo es:
 5
 1
 ```
+
+
+
+Codigos: [Ejercicios](../Tarea3/)
