@@ -20,7 +20,6 @@ Para analizar la complejidad de los algoritmos se utilizan modelos matemáticos 
 3. ***Modelo cuadrático:*** Un algoritmo con tiempo de ejecución cuadrático tiene una complejidad de O(n^2). Esto significa que el tiempo de ejecución aumenta de forma cuadrática con el tamaño del problema.
 
 4. ***Modelo exponencial:*** Un algoritmo con tiempo de ejecución exponencial tiene una complejidad de O(2^n). Esto significa que el tiempo de ejecución aumenta de forma exponencial con el tamaño del problema.
-___
 
 ## Análisis de algoritmos:
 
@@ -31,7 +30,7 @@ El análisis de algoritmos es una técnica utilizada para determinar la compleji
 2. ***Análisis de mejor caso:*** Esta técnica consiste en analizar el tiempo de ejecución del algoritmo para el mejor caso posible, es decir, para el conjunto de datos que requieren menos tiempo para ser procesados.
 
 3. ***Análisis de caso promedio:*** Esta técnica consiste en analizar el tiempo de ejecución del algoritmo para un conjunto de datos aleatorios.
-___
+
 ### Órdenes de crecimiento:
 
 El orden de crecimiento de un algoritmo indica cómo aumenta el tiempo de ejecución del algoritmo a medida que el tamaño del problema se incrementa. A continuación, se describen las órdenes de crecimiento más comunes:
