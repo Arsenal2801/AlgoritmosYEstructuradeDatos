@@ -8,7 +8,7 @@ Para analizar la complejidad de los algoritmos, se utilizan modelos matemáticos
 En este reporte se analizará la complejidad de algunos algoritmos comunes utilizando modelos matemáticos y técnicas de análisis de algoritmos, incluyendo el cálculo de sus órdenes de crecimiento.
 _____
 ## Metodos para el analisis
-___
+
 ### Modelos matemáticos:
 
 Para analizar la complejidad de los algoritmos se utilizan modelos matemáticos que permiten medir su tiempo de ejecución en términos de una función matemática. A continuación, se describen algunos de los modelos matemáticos más utilizados en el análisis de la complejidad de los algoritmos:
